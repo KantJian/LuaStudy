@@ -1,0 +1,1 @@
+print(string.find("hello hello"," hel"))
